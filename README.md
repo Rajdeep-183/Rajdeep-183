@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajdeep</h1>
-<h3 align="center">A Passionate Python Developer interested in Data Visualization and Many more</h3>
+<h3 align="center">A Passionate Python Developer interested in Data Visualization and Many more...</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
